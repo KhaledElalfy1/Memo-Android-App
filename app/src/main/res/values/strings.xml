@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Memo</string>
+    <string name="MemoApp">Memo App</string>
+    <string name="memePartOne">Meme part one</string>
+    <string name="memePartTwo">Meme part two</string>
+    <string name="myName">Khaled Elalfy</string>
+    <string name="job">Mobile App Developer </string>
+</resources>
